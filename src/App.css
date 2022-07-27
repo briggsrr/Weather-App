@@ -2,5 +2,10 @@
   
   max-width: 1000px;
   margin: 35px auto; 
+  height: 800px;
   
+}
+
+.content {
+  height: 1000px;
 }

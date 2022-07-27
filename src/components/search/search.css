@@ -1,0 +1,11 @@
+.searchbardiv {
+    justify-content: center;
+    border: 1px solid #fff;
+    
+}
+
+.searchbar {
+    width: 500px;
+    margin: 0px auto 0 auto;
+
+}
