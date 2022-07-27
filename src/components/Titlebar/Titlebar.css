@@ -3,15 +3,19 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 10px;
     
 }
 
 .TitleWrapper {
     width: 600px;
     border: 10px solid #f7f0c5;
+    border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #f7f0c5;
+    
 } 
 
 .HeaderText {
