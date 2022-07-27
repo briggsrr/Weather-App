@@ -9,3 +9,4 @@ Notes:
 > Currently only available locally.
 > Update with footer uniquely uses styled components
 > Big shoutout to freecodecamp.com for enabling this project
+> Eventually add mobile support?

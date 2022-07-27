@@ -1,0 +1,22 @@
+.TitleContainer {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.TitleWrapper {
+    width: 600px;
+    border: 10px solid #f7f0c5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.HeaderText {
+    font-weight: 500;
+    font-size: 40px;
+    color: #333;
+}
+
