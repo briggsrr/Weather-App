@@ -28,6 +28,7 @@
   margin: 0;
   letter-spacing: -1px;
   color: #2ac0f2;
+  
 }
 
 .weather-desc {
@@ -35,7 +36,7 @@
   font-size: 16px;
   line-height: 1;
   margin: 0;
-  color: #f6a71d;
+  color: #fff;
 }
 
 .weather-icon {
@@ -43,11 +44,13 @@
 }
 .temp {
   font-weight: 200;
-  font-size: 70px;
+  font-size: 75px;
   width: auto;
-  letter-spacing: -8px;
+  letter-spacing: -3px;
   margin: 1px 0;
-  color: #f6a71d;
+  color: #fff;
+  /* border: 1px solid #fff; */
+  padding-bottom: 10px;
   
 }
 
@@ -77,9 +80,20 @@
   text-align: right;
   font-weight: 600;
   font-size: 12px;
-  color: #f6a71d;
+  color: #fff;
   width: 50px;
   text-align: left;
 }
 
-
+.detail-label {
+  text-align: left;
+  font-weight: 200;
+  font-size: 12px;
+  
+  /* border: 1px solid #fff;  */
+  width: 130px;
+  text-align: right;
+  font-weight: 400;
+  color: #2ac0f2;
+  
+}

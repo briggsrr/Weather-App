@@ -1,3 +1,4 @@
+//Eventually make into .env to hide secrets
 export const geoApiOptions = {
 	method: 'GET',
 	headers: {
@@ -7,7 +8,6 @@ export const geoApiOptions = {
 };
 
 export const GEO_API_URL = "https://wft-geo-db.p.rapidapi.com/v1/geo";
-
 export const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5";
-export const WEATHER_API_KEY = "57193b9ee3da71879ba0dbb3b7050cb7"; // enter your key from openweather API
+export const WEATHER_API_KEY = "3480952f6cefaf7a9cee71c7360d3a0d"; 
 

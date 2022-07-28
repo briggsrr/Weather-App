@@ -19,8 +19,9 @@
 } 
 
 .HeaderText {
-    font-weight: 300;
+    font-weight: 200;
     font-size: 40px;
-    color: #2ac0f2;
+    color: #fff;
+    letter-spacing: 0px;
 }
 
