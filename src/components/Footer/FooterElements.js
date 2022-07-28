@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 
 export const FooterContainer = styled.div`
-    background-color: #04c4fb;
+    background-color: #2ac0f2;
     
 
 
@@ -10,7 +10,7 @@ export const FooterContainer = styled.div`
 `;
 
 export const FooterWrap = styled.div`
-    background-color: #99dcd7;
+    background-color: #2ac0f2;
     justify-content: center;
     width: 100%;
     display: flex;
