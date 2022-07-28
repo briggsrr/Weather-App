@@ -9,18 +9,18 @@
 
 .TitleWrapper {
     width: 600px;
-    border: 10px solid #f7f0c5;
-    border-radius: 15px;
+    border-radius: 6px;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f7f0c5;
+    background-color: #333;
     
 } 
 
 .HeaderText {
-    font-weight: 500;
+    font-weight: 400;
     font-size: 40px;
-    color: #333;
+    color: #cbd6f6;
 }
 
