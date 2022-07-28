@@ -26,8 +26,8 @@
   font-size: 23px;
   line-height: 1;
   margin: 0;
-  letter-spacing: 1px;
-  color: #2ac0f2;
+  letter-spacing: -1px;
+  color: #99dcd7;
 }
 
 .weather-desc {
@@ -70,7 +70,7 @@
   width: 80px;
   text-align: right;
   font-weight: 400;
-  color: #2ac0f2;
+  color: #99dcd7;
 }
 
 .parameter-value {
