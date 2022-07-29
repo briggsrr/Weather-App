@@ -48,6 +48,7 @@ function App() {
      {forecast && <Forecast data={forecast} />}
     
      </div>
+     
      <div className='footer'>
       <Footer/>
      </div>

@@ -7,11 +7,12 @@ Some file/folder descriptions:
  
 Notes: 
 > Currently only available locally.
-> Update with footer uniquely uses styled components
+> Footer uniquely uses styled components (since same one used as website)
+> Data is not accurate for the accordion due to the limiation of the weather api (you have to pay for more features...)
 > Big shoutout to freecodecamp.com for enabling this project
 
 Further: 
 > Add dynamic video background?
 > Add mobile support?
-> Add 
+> Ad
 
