@@ -5,7 +5,7 @@ import CurrentWeather from './components/curr-weather/current-weather';
 import Footer from './components/Footer';
 import Search from './components/search/search';
 import Titlebar from './components/Titlebar/Titlebar';
-import { WEATHER_API_URL, WEATHER_API_KEY } from "./api";
+import { WEATHER_API_URL, WEATHER_API_KEY } from "./config";
 import Forecast from './components/forecast/forecast';
 
 

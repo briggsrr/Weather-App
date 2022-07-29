@@ -14,5 +14,5 @@ Notes:
 Further: 
 > Add dynamic video background?
 > Add mobile support?
-> Ad
+> Need to hide api keys before uploading
 
