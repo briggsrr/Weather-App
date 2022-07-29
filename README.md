@@ -1,5 +1,8 @@
 # Weather-App
-This project uses JS, CSS, HTML, React.js and some apis to create a weather application. 
+A web-app that uses react.js, HTML,, CSS,  and REST Apis to enable
+visitors to find the several weather data points in any city,
+as well as the projected forecast for 
+the next 7 days. 
 
 Some file/folder descriptions: 
  >  - src/components contains all individual aspects of the app
