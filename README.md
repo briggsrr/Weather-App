@@ -28,6 +28,6 @@ Pictures:
 
 ![image4](output_images/abudhabi-open.png?raw=true "pictransferINIT")
 
-![image5](output_images/san-diego.png?raw=true "pictransferINIT")
+![image5](output_images/sandiego.png?raw=true "pictransferINIT")
 
-![image6](output_images/san-diego-open.png?raw=true "pictransferINIT")
+![image6](output_images/sandiego-open.png?raw=true "pictransferINIT")
