@@ -18,3 +18,16 @@ Further:
 > Add dynamic video background?
 > Add mobile support?
 
+Pictures: 
+
+![image1](output_images/initial-page.png?raw=true "pictransferINIT")
+
+![image2](output_images/first-search.png?raw=true "pictransferINIT")
+
+![image3](output_images/dallas.png?raw=true "pictransferINIT")
+
+![image4](output_images/abudhabi-open.png?raw=true "pictransferINIT")
+
+![image5](output_images/san-diego.png?raw=true "pictransferINIT")
+
+![image6](output_images/san-diego-open.png?raw=true "pictransferINIT")
